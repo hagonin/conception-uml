@@ -1,10 +1,12 @@
 # Ignore Visual Paradigm backup files
 *.vpp.bak
 *.bak_*
+.vpp.lck
 
 # Ignore lock files
 *.lock
-
+*.lck
+*.bak_*
 # Windows system files
 Thumbs.db
 Desktop.ini
