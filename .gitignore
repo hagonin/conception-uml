@@ -1,0 +1,19 @@
+# Ignore Visual Paradigm backup files
+*.vpp.bak
+*.bak_*
+
+# Ignore lock files
+*.lock
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
